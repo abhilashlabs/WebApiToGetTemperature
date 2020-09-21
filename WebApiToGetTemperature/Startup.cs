@@ -13,7 +13,7 @@ using Microsoft.Extensions.Logging;
 
 namespace WebApiToGetTemperature
 {
-    public class Startup
+    public class Startup 
     {
         public Startup(IConfiguration configuration)
         {
